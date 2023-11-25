@@ -1,68 +1,84 @@
-# Omkar Ashok Arade | Data Scientist and ML Engineer
-
-![Profile Banner](img.jpeg)
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
 
 <h1 align="center">Hi 👋, I'm Omkar Ashok Arade 👦</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A %20Machine%20Learning%20Engineer%20from%20India 👨🏻‍💻; Interested in working with teams;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=A 20Machine%20Learning%20Engineer%20from%20India 👨🏻‍💻; Proficient in Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, NLTK, and Scikit-Learn; Eager to apply expertise across diverse domains, fostering creativity and growth.&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<div style={{width:"300px", height:"300", marginTop:"500px"}}>
-<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a42b3n48m5m22lwh4gzsuqdb8fef2m1sdioobrc2&rid=giphy.gif&ct=g" alt="">
+<div style={{ width: "300px", height: "300", marginTop: "500px" }}>
+  <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a42b3n48m5m22lwh4gzsuqdb8fef2m1sdioobrc2&rid=giphy.gif&ct=g" alt="">
 
+  # 💫 About Me:
+  - 👯 A passionate Data Scientist and Machine Learning Engineer.
+  - 😎 Proficient in Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, NLTK, and Scikit-Learn.
+  - 🙂 Eager to apply expertise across diverse domains, fostering creativity and growth.
+  - 🌱 Learning and exploring new horizons in the field of data science.
 
+  - 👨‍💻 All of my projects are available at [My GitHub Portfolio](https://github.com/omkararade)
 
-## About Me
-I bring a wealth of experience in the dynamic field of data science, specializing in machine learning, deep learning, and natural language processing. My journey includes impactful roles at Deep Thought Growth Management System and Accenture, where I played a key role in driving technological solutions and contributing to the success of diverse projects.
+  - 📬 Connect with me:
+    - 📧 Email: omkararade@gmail.com
+    - 🐙 GitHub: [GitHub Profile](https://github.com/omkararade)
+    - 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/omkaraarade/)
 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+  <h2 align="center">🏆 GitHub Trophies:</h2>
 
-## Education
-- Learning Path in Data Science | Board Infinity (2022)
-- Diploma | M. H. Saboo Siddhiq Engineering College (2019)
-- Higher Secondary Certificate | Maharshi Dayanand College (2017_
+  <p align="center"> <img src="https://visitcount.itsvg.in/api?id=spp96&icon=2&color=0" alt="omkararade" /> </p>
 
-## Technical Skills
-- Languages: Python, SQL
-- Machine Learning
-- Deep Learning
-- NLP: NLTK
-- Data Manipulation: Pandas, NumPy
-- Data Visualization: Matplotlib, Seaborn
-- Database: MySQL
-- Other Tools: Excel, Tableau
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkararade&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="omkararade" /></a> </p>
 
-## Projects
-1. **WhatsApp Chat Analysis (Sep 2023)**
-   - Tool Used: Excel, Python, Machine Learning, NLP
-   - Description: Analyzing WhatsApp chat data, generating visualizations, and creating an interactive web application for user-specific insights.
+  <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-2. **Movie Recommendation System (Oct 23)**
-   - Tools Used: Python, Machine Learning, NLP
-   - Description: Developing a recommender system based on user preferences, utilizing information filtering techniques for more relevant recommendations.
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-3. **Bank Subscription (Dec 2022 - Jan 2023)**
-   - Tools Used: Excel, Python, Machine Learning
-   - Description: Predicting customer conversions for a bank's telephonic campaigns, optimizing targeting through machine learning models.
+  <h2 align="center">📱 Connect with me</h2>
+  <br />
+  <p align="center">
+    <a href="https://linkedin.com/in/omkaraarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkaraarade" height="30" width="40" /></a>
+    <a href="https://codesandbox.com/omkararade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="omkararade" height="30" width="40" /></a>
+    <a href="https://instagram.com/omkararade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkararade" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/channel/omkararade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omkararade" height="30" width="40" /></a>
+  </p>
 
-## Trainings & Certifications
-- Statistics for Data Science
-- Analyzing and Visualizing Data with Accenture
-- Internship and job preparation
-- SQL (Basic/Intermediate) Certificate
-- AWS Cloud Practitioner Essentials
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## Honors & Awards
-- Software Hub launch at St. Mary's Group of Institute (June 2023)
+  <h2 align="center">🚀 Languages and Tools:</h2>
+  <br />
+  <div align="center">
 
-## Contact
-- 📧 Email: omkararade@gmail.com
-- 📱 Portfolio: [Portfolio Profile](https://omkararade.github.io/Omkar_Portfolio/)
-- 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/omkaraarade/)
-- 🐙 GitHub: [GitHub Profile](https://github.com/omkararade)
+  <div align="center">
+      <h3 align="center">Languages and Tools</h3>
+      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python">
+      <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" align="center" alt="tensorflow">
+      <img src="https://img.shields.io/badge/nltk-%2315A06B.svg?style=for-the-badge&logo=nltk&logoColor=white" align="center" alt="nltk">
+      <img src="https://img.shields.io/badge/excel-%217347.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" align="center" alt="excel">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql">
+    </div>
+  </div>
 
-Let's connect and explore the fascinating world of data science together! 🚀
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+  <h2 align="center">📊 My Github Stats</h2>
+  <br />
+  <p align="center">
+    <a href="https://github.com/omkararade/github-readme-stats"><img alt="Omkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkararade&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+  <br />
+  <p align="center">
+    <a href="https://github.com/omkararade/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omkararade&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+  </p>
+
+  <br />
+  <br />
+  <p align="center">
+    <a href="https://github.com/omkararade/github-readme-stats"><img alt="Omkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkararade&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Omkar's Github Stats" /></a>
+  </p>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</div>
