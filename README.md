@@ -22,6 +22,8 @@
     - 📧 Email: omkararade@gmail.com
     - 🐙 GitHub: [GitHub Profile](https://github.com/omkararade)
     - 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/omkaraarade/)
+    - 📱 Portfolio: [Portfolio link](https://omkararade.github.io/Omkar_Portfolio/)
+  
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
