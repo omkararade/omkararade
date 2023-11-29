@@ -23,10 +23,14 @@
     - 🐙 GitHub: [GitHub Profile](https://github.com/omkararade)
     - 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/omkaraarade/)
     - 📱 Portfolio: [Portfolio link](https://omkararade.github.io/Omkar_Portfolio/)
-  
+
+
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
+  
+  <h2 align="center"><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=omkararade&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
   <h2 align="center">🏆 GitHub Trophies:</h2>
 
   <p align="center"> <img src="[![](https://visitcount.itsvg.in/api?id=omkararade&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)" alt="omkararade" /> </p>
