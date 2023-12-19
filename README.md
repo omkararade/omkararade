@@ -1,7 +1,7 @@
-<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h1 align="center">Hi 👋, I'm Omkar Ashok Arade 👦</h1>
+<h1 align="center">👋, I'm Omkar Ashok Arade 👦</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=A 20Machine%20Learning%20Engineer%20from%20India 👨🏻‍💻; Proficient in Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, NLTK, and Scikit-Learn; Eager to apply expertise across diverse domains, fostering creativity and growth.&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
