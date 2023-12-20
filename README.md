@@ -33,8 +33,6 @@
 </a>
   <h2 align="center">🏆 GitHub Trophies:</h2>
 
-  <p align="center"> <img src="[![](https://visitcount.itsvg.in/api?id=omkararade&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)" alt="omkararade" /> </p>
-
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkararade&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="omkararade" /></a> </p>
 
   <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
