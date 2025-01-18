@@ -21,7 +21,7 @@
   - 📬 Connect with me:
     - 📧 Email: omkararade@gmail.com
     - 🐙 GitHub: [GitHub Profile](https://github.com/omkararade)
-    - 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/omkaraarade/)
+    - 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/omkararade/)
     - 📱 Portfolio: [Portfolio link](https://omkararade.github.io/Omkar_Portfolio/)
 
 
@@ -42,7 +42,7 @@
   <h2 align="center">📱 Connect with me</h2>
   <br />
   <p align="center">
-    <a href="https://linkedin.com/in/omkaraarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkaraarade" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/omkararade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkaraarade" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/profile/omkararade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkararade" height="30" width="40" /></a>
     <a href="https://instagram.com/omkar_arade__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkararade" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@omkararade4651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omkararade" height="30" width="40" /></a>
