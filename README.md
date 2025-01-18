@@ -21,7 +21,7 @@
   - 📬 Connect with me:
     - 📧 Email: omkararade@gmail.com
     - 🐙 GitHub: [GitHub Profile](https://github.com/omkararade)
-    - 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/omkararade/)
+    - 📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/omkararade/)
     - 📱 Portfolio: [Portfolio link](https://omkararade.github.io/Omkar_Portfolio/)
 
 
