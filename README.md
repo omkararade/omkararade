@@ -40,7 +40,7 @@
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkararade&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=omkararade&theme=nord&no-frame=true&row=1" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkararade&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
