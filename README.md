@@ -57,7 +57,7 @@
   
   ![Omkar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=omkararade&show_icons=true&theme=dark)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=omkararade&theme=dark&hide_border=true&background=0D1117)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkararade)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkararade&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
