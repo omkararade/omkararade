@@ -11,7 +11,7 @@
 </p>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF"/>
 </p>
 
 ## 💫 About Me
