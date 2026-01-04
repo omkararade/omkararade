@@ -55,7 +55,7 @@
 
 <div align="center">
   
-  ![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkararade&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+  ![Omkar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=omkararade&show_icons=true&theme=dark)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=omkararade&theme=dark&hide_border=true&background=0D1117)
   
