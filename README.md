@@ -59,7 +59,7 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkararade)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkararade&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+  ![Top Languages](https://github-readme-stats-eight-alpha.vercel.app/api/top-langs/?username=omkararade)
 
 </div>
 
