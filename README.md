@@ -116,24 +116,6 @@
 
 ---
 
-## 🎯 Recent Projects
-
-Here are some of my notable projects:
-
-1. **📊 [Data Analysis Project]** - Advanced data analysis using Python and ML
-2. **🤖 [ML Model Deployment]** - End-to-end ML pipeline deployment
-3. **📈 [Predictive Analytics]** - Time series forecasting and prediction models
-4. **🔍 [NLP Application]** - Natural Language Processing for text analysis
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
   
   ### ⭐️ Star Some Repositories ⭐️
