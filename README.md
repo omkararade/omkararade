@@ -106,15 +106,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkararade&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
 
 <div align="center">
   
